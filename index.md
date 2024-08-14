@@ -5,6 +5,18 @@
 
 Regular text
 
+##### Make a list:
+- [x] Item 1
+- [x] Item 2
+- [ ] Item 3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+#### Bullet list
+- list item 1
+- list item 2
+
 **Bold text**
 
 *Italicized text*
