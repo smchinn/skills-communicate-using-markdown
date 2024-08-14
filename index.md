@@ -5,6 +5,26 @@
 
 Regular text
 
+**Bold text**
+
+*Italicized text*
+
+***Bold and Italicized***
+
+:bowtie:
+
+🐦
+
+🎂
+
+<!---under the tilda to get these backticks--->
+```
+library(dplyr)
+newdata <- mtcars |> dplyr::filter(mpg > 20)
+
+print("Hello World!")
+```
+
 ![Image of Manufacturecat](https://octodex.github.com/images/manufacturetocat.png)
 
 <!---different sized image--->
